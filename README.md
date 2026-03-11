@@ -23,3 +23,4 @@ The analysis successfully identifies **five distinct customer personas** based o
 * **Risk Mitigation:** Close monitoring of Cluster 3 and 5 is recommended due to high utilization ratios (up to 37%).
 * **Data Strategy:** Identified a significant gap in marital status data for Cluster 4, suggesting a need for improved data collection at onboarding.
 
+Dataset : https://raw.githubusercontent.com/moscmh/creditcard/main/customer_segmentation.csv
